@@ -1,2 +1,2 @@
 # tunnel-vision
-Native desktop screen-sharing application written in Rust
+Open-source native desktop screen-sharing application with privacy in mind.
