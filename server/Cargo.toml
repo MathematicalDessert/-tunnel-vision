@@ -1,0 +1,7 @@
+[package]
+name = "tunnel-vision-server"
+version = "0.1.0"
+authors = ["Pelanyo Kamara <pelanyo@pkamara.me>"]
+edition = "2018"
+
+[dependencies]
